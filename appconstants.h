@@ -1,0 +1,8 @@
+#ifndef APPSCONSTANTS_H_INCLUDED
+#define APPSCONSTANTS_H_INCLUDED
+
+#define NAME_LEN        64
+#define BANK_CODE       20
+#define AREA_CODE       1234
+
+#endif // APPSCONSTANTS_H_INCLUDED
